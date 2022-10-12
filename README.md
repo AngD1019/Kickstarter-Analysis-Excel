@@ -7,4 +7,5 @@ Rising playwright, Louise, wants to start a crowdfunding campaign to help fund h
 **Analysis and Challenges**
 When looking at the outcomes for theater campaigns based on which month they were launched in, successful campaigns spiked when launched in May. The next highest months for successful campaigns to be launched were June and then July. The highest rate of failed campaigns were launched in May and October, but were still significantly lower than the rates of successful campaigns launched in these months. The below chart shows both the successful and failed campaigns increasing when launched in May, however, this may correlate to simply more campaigns being launch overall at this time, and therefore potentially a natural occurence. See the below line graph 
 
- <img width="576" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/114960958/195370771-43708ba7-d596-4359-9846-8a03f97e6eb0.png">
+
+![Theater Outcomes Based on Launch Date](Theater_Outcomes_vs_Launch.png)
