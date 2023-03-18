@@ -1,5 +1,5 @@
 # kickstarter-analysis
-**Performing analysis on Kickstarter data to uncover trends**
+**Using Excel to perform analysis on Kickstarter data to uncover trends**
 
 ## Overview of Project
 Rising playwright, Louise, wants to start a crowdfunding campaign to help fund her play, *Fever*. She estimates needing a budget of over $10,000 and is worried about jumping into her first fundraising campaign. I used Excel to organize the current site data to assist Louise in better understanding campaigns from start to finish, so that she can set up her campaign to mirror other successful ones in the same category. 
