@@ -1,4 +1,4 @@
-# kickstarter-analysis
+# Kickstarter Analysis
 **Using Excel to perform analysis on Kickstarter data to uncover trends**
 
 ## Overview of Project
